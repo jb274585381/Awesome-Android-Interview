@@ -145,7 +145,7 @@ Serializable 是序列化的意思，表示将一个对象转换成存储或可�
 
 区别总结如下图所示：
 
-![image](https://user-gold-cdn.xitu.io/2019/3/8/1695c349f019c41f?imageslim)
+![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2019/3/8/1695c349f019c41f~tplv-t2oaga2asx-watermark.awebp)
 
 
 #### 8、动画
