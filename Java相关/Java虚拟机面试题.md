@@ -13,19 +13,19 @@
 - 1.堆：存储 Java 实例，GC 主要区域，分代收集 GC 方法会吧堆划分为新生代、老年代
 - 2.方法区：存储类信息，常量池，静态变量等数据
 
-JVM基本构成![image](https://user-gold-cdn.xitu.io/2017/11/21/15fdc4cfaf97ca63?imageslim)
+JVM基本构成![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/11/21/15fdc4cfaf97ca63~tplv-t2oaga2asx-watermark.awebp)
 
 从上图可知，JVM主要包括四个部分：
 
 1.类加载器（ClassLoader）:在JVM启动时或者在类运行将需要的class加载到JVM中。（下图表示了从java源文件到JVM的整个过程，可配合理解。
 
-![image](https://user-gold-cdn.xitu.io/2017/11/21/15fdc4cfb0e97353?imageslimo)
+![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/11/21/15fdc4cfb0e97353~tplv-t2oaga2asx-watermark.awebp)
 
 2.执行引擎：负责执行class文件中包含的字节码指令；
     
 3.内存区（也叫运行时数据区）：是在JVM运行的时候操作所分配的内存区。运行时内存区主要可以划分为5个区域，如图：
 
-![image](https://user-gold-cdn.xitu.io/2017/11/21/15fdc4cfaf3c52a9?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/11/21/15fdc4cfaf3c52a9~tplv-t2oaga2asx-watermark.awebp)
 
 方法区(MethodArea)：用于存储类结构信息的地方，包括常量池、静态常量、构造函数等。虽然JVM规范把方法区描述为堆的一个辑部分， 但它却有个别名non-heap（非堆），所以大家不要搞混淆了。方法区还包含一个运行时常量池。
 
