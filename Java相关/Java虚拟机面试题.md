@@ -301,7 +301,7 @@ JVM在判定两个class是否相同时，不仅要判断两个类名否相同，
 - 重写加载包含公共Jar的Jar的ClassLoader，在loClass中找到已经加载过公共Jar的ClassLoader，是把父ClassLoader替换掉。(只适用Java)
 - 在生成包含公共Jar的Jar时候把公共Jar去掉。
 
-#### 5、[JVM跟Art、Dalvik对比](https://www.jianshu.com/p/58f817d176b7)？
+#### 5、[Jvm、Dalvik和Art对比](https://www.jianshu.com/p/df979605e2f3)
 　　
 #### 6、GC收集器简介？以及它的内存划分怎么样的？
 
