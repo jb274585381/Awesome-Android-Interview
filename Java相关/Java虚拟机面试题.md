@@ -13,8 +13,7 @@
 - 1.堆：存储 Java 实例，GC 主要区域，分代收集 GC 方法会吧堆划分为新生代、老年代
 - 2.方法区：存储类信息，常量池，静态变量等数据
 
-JVM基本构成
-![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/11/21/15fdc4cfaf97ca63~tplv-t2oaga2asx-watermark.awebp)
+![JVM基本构成](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/11/21/15fdc4cfaf97ca63~tplv-t2oaga2asx-watermark.awebp)
 
 从上图可知，JVM主要包括四个部分：
 
