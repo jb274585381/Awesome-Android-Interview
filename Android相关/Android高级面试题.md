@@ -970,7 +970,7 @@ Binder框架 是基于 C/S 架构的。由一系列的组件组成，包括 Clie
 
 最后，结合[Android跨进程通信：图文详解 Binder机制 ](https://blog.csdn.net/carson_ho/article/details/73560642)的总结图来综合理解一下：
 
-![image](https://user-gold-cdn.xitu.io/2019/3/8/1695c1ab5abdf775?imageslim)
+![image](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5c3b57f5028046e8b47f014630799eb4~tplv-k3u1fbpfcp-watermark.awebp)
 
 #### Binder 的完整定义
 
@@ -1894,7 +1894,7 @@ BitmapFactory.Options相关参数详解：
 
 Java 引用类型分类：
 
-![image](https://user-gold-cdn.xitu.io/2017/10/10/29c884389e96babb2759b95014628aae?imageslim)
+![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2017/10/10/29c884389e96babb2759b95014628aae~tplv-t2oaga2asx-watermark.awebp)
 
 在 Android 应用的开发中，为了防止内存溢出，在处理一些占用内存大而且生命周期较长的对象时候，可以尽量应用软引用和弱引用技术。
 
@@ -2215,7 +2215,7 @@ postToSubscription 方法中对 threadMode 进行了分发，内部通过 thread
 
 流程图：
 
-![image](https://ww1.sinaimg.cn/large/006dXScfly1fj22w7flt4j30z00mrtc0.jpg)
+![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/2/24/17074f730b83c0c3~tplv-t2oaga2asx-watermark.awebp)
 
 源码分析中一些核心分析点：
 
