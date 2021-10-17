@@ -2104,7 +2104,7 @@ https://blog.csdn.net/lmj623565791/article/details/493009890
 如下图所示，事件总线机制通过记录对象、使用观察者模式来通知对象各种事件。（当然，你也可以发送基本数据类型如 int，String 等作为一个事件）
 
 
-![image](https://user-gold-cdn.xitu.io/2020/3/6/170ada0907b50b75?w=1223&h=424&f=png&s=31190)
+![image](https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/3/6/170ada0907b50b75~tplv-t2oaga2asx-watermark.awebp)
 
 ##### 优缺点
 
